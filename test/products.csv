@@ -1,0 +1,6 @@
+title,price,currency,inventory_count,can_purchase
+Cat Food,500,USD,250,1
+Potatoes,10,CAD,10,0
+Whiteboard,10000,EUR,10,1
+Lightbulb,1000,USD,0,1
+Glasses,80000,USD,1,1
